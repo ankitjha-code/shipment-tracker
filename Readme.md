@@ -54,6 +54,6 @@ The application will start on `http://localhost:8080`.
 
 Once the application is running, the interactive Swagger UI is available at:
 
-[**http://localhost:8080/swagger-ui.html**](http://localhost:8080/swagger-ui.html)
+[**https://shipment-tracker-1lu7.onrender.com/swagger-ui/index.html**](https://shipment-tracker-1lu7.onrender.com/swagger-ui/index.html)
 
 You can view all endpoints and test the API directly from your browser.
